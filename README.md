@@ -1,1 +1,1 @@
-hello front end kkk
+hello front
